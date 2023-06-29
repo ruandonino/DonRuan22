@@ -1,4 +1,4 @@
-![Ruan Lucas Donino](https://github.com/DonRuan22/DonRuan22/blob/main/inovacao.jpg)
+![Ruan Lucas Donino](https://github.com/ruandonino/DonRuan22/blob/main/inovacao.jpg)
 
 <img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ruan</h2>
 
@@ -36,8 +36,8 @@
 
 <p align="left">
 <a href="https://github.com/ruandonino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DonRuan22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DonRuan22&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruandonino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruandonino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
